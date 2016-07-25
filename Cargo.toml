@@ -1,0 +1,12 @@
+[package]
+name = "tryte"
+version = "0.1.0"
+authors = ["Sascha Hanse <shanse@gmail.com>"]
+license = "MIT"
+description = "convert bytes/strings into trytes"
+repository = "https://www.github.com/knarz/tryte"
+homepage = "https://www.github.com/knarz/trytes"
+
+[dependencies]
+#phf = { version = "~0.7.16" }
+#phf_macros = { version = "~0.7.16" }
